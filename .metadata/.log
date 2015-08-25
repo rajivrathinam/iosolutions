@@ -71,3 +71,6 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY com.google.gdt.eclipse.suite 1 0 2015-08-26 00:29:38.029
 !MESSAGE Registering: com.google.appengine.eclipse.sdkbundle_1.9.22
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2015-08-26 01:26:20.727
+!MESSAGE No valid Android XML Editor Delegate found for file /FirstGit/WebContent/WEB-INF/web.xml [Res null, type null]
